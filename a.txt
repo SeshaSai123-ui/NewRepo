@@ -1,2 +1,3 @@
 Hi what are you doing?
-I am doing the git commads
+I am doing the git commands
+i am writing some thing for pull from remote repository to working directory 
